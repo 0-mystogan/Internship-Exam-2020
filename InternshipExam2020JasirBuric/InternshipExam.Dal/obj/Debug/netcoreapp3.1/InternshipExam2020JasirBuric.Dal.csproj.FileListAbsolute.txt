@@ -1,0 +1,12 @@
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\bin\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.deps.json
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\bin\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.dll
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.csprojAssemblyReference.cache
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.AssemblyInfoInputs.cache
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.AssemblyInfo.cs
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\bin\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.pdb
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.dll
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.pdb
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\bin\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.runtimeconfig.json
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\bin\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.runtimeconfig.dev.json
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.genruntimeconfig.cache
+I:\InfinityMesh\Internship-Exam-2020\InternshipExam2020JasirBuric\InternshipExam.Dal\obj\Debug\netcoreapp3.1\InternshipExam2020JasirBuric.Dal.csproj.CoreCompileInputs.cache

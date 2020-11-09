@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipExam2020JasirBuric", "InternshipExam2020JasirBuric\InternshipExam2020JasirBuric.csproj", "{A6BF129B-1E78-4595-A6A7-02581EE09280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipExam2020JasirBuric.Dal", "InternshipExam.Dal\InternshipExam2020JasirBuric.Dal.csproj", "{3C7579F3-1675-47CB-811E-F0AFC0EE3662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BF129B-1E78-4595-A6A7-02581EE09280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BF129B-1E78-4595-A6A7-02581EE09280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BF129B-1E78-4595-A6A7-02581EE09280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BF129B-1E78-4595-A6A7-02581EE09280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7579F3-1675-47CB-811E-F0AFC0EE3662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7579F3-1675-47CB-811E-F0AFC0EE3662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7579F3-1675-47CB-811E-F0AFC0EE3662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7579F3-1675-47CB-811E-F0AFC0EE3662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA6CCCC-931E-42CF-AEEB-828283315E84}
+	EndGlobalSection
+EndGlobal
